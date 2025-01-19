@@ -47,3 +47,6 @@ h1 {
   background-color: hsl(260, 100%, 50%);
 }
 
+.three {
+  background: linear-gradient(90deg, rgb(255, 0, 0), rgb(0, 255, 0),rgb(0,0,255));
+}
