@@ -41,3 +41,9 @@ h1 {
   .hexcolor1{
     background-color: #66fffc;
   }
+
+  
+.Hslcolor{
+  background-color: hsl(260, 100%, 50%);
+}
+
