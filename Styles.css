@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+  }
+  
+  .container {
+    background-color: rgb(255, 255, 255);
+    padding: 10px 0;
+  }
+  
+  .marker {
+    width: 200px;
+    height: 25px;
+    margin: 10px auto;
+  }
+
+
+  .boxone {
+    background-color: rgb(255, 127, 0);
+  }
+  
+  .boxtwo {
+    background-color: rgb(0, 255, 127);
+  }
+  
+  .boxthree {
+    background-color: rgb(127, 0, 255);
+  }  
