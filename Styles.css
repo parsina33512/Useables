@@ -25,3 +25,12 @@ h1 {
   .boxthree {
     background-color: rgb(127, 0, 255);
   }  
+  
+ .swampbox{
+    background-color: rgb(127, 127, 0);
+  }
+  
+.boxazureblue {
+    background-color: rgb(0, 127, 255);
+  }
+  
