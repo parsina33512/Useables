@@ -58,10 +58,12 @@ h1 {
 }
 
 .red {
+  box-shadow: 5px 5px darkred;
   background: linear-gradient(rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
 }
 
 .green {
+  box-shadow:5px 5px 5px green;
   background: linear-gradient(#55680D, #71F53E, #116C31);
 }
 
